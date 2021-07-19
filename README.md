@@ -1,6 +1,6 @@
 # Simple Banking System
 Banking system plays an important role in modern economic world. This project is a simple banking system that implements the features of a real-time banking system. Featuresinclude: 
-Openanewaccount 
+Open a new account 
 Withdraw 
 Deposit 
 CheckBalance 
